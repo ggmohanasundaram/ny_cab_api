@@ -3,8 +3,10 @@
    2. To Start the Server - python manage.py runserver
    3. To Run the client - python client/trip_count_client.py
    
-#Configuration changes
-    1. ny_cab_api/config.py - Changes the mysql url under Development section
+   
+# Configuration changes
+
+    1. ny_cab_api/config.py - Change the mysql url under Development section
            Example :  mysql+mysqlconnector://<user>:<password>@<ipaddress>:3306/<dbname>
     
   
