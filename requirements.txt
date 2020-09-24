@@ -1,0 +1,15 @@
+Flask
+flask-sqlalchemy==2.4.4
+marshmallow
+flask-bcrypt
+alembic
+flask-migrate
+flask-script
+python-dotenv
+mysql-connector-python
+requests
+requests_cache
+flask-api-cache
+flask_cache
+pytest
+mockito
